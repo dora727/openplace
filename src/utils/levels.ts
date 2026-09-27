@@ -8,5 +8,5 @@ export const calculateDropletsForLevel = (level: number): number => {
 };
 
 export const calculateMaxChargesForLevel = (level: number): number => {
-	return 20 + (Math.floor(level) * 2);
+	return 600 + (Math.floor(level) * 60);
 };

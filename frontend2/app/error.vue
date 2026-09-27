@@ -36,7 +36,7 @@
 						:class="slotProps.class"
 						:style="{ 'text-decoration': 'none' }"
 					>
-						Back to openplace &rarr;
+						Back to closeplace &rarr;
 					</RouterLink>
 				</Button>
 			</template>
@@ -68,7 +68,7 @@ defineProps<{
 	z-index: 2;
 	min-height: 100svh;
 	padding: 50px 1rem;
-	background: #4169e1;
+	background: #C6FCFF;
 }
 
 .root-card {

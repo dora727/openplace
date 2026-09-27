@@ -50,8 +50,8 @@
 			v-else
 			class="form"
 		>
-			<p>Connect your Discord account to openplace.</p>
-			<p>When you link your Discord account to openplace, you will receive exclusive perks such as shortened cooldown times, account recovery, and much more.</p>
+			<p>Connect your Discord account to closeplace.</p>
+			<p>When you link your Discord account to closeplace, you will receive exclusive perks such as shortened cooldown times, account recovery, and much more.</p>
 			<p>Your Discord username on your profile cannot be changed while linked. You can unlink at any time.</p>
 		</div>
 

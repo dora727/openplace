@@ -1,7 +1,7 @@
 <template>
 	<div class="form">
 		<h2 class="head">First, let’s go over some rules..</h2>
-		<p>These rules are to ensure you have a safe and enjoyable experience on openplace.</p>
+		<p>These rules are to ensure you have a safe and enjoyable experience on closeplace.</p>
 
 		<div class="section">
 			<Rules :is-visible="isVisible" />

@@ -27,12 +27,12 @@
 					width="64"
 					height="64"
 				>
-				<span>openplace</span>
+				<span>closeplace</span>
 			</div>
 
 			<div class="section">
 				<p>
-					openplace is a free unofficial open source backend for wplace. We aim to give the freedom and flexibility for all users to be able to make their own private wplace experience for themselves, their friends, or even their community.
+					closeplace is a free unofficial open source backend for wplace. We aim to give the freedom and flexibility for all users to be able to make their own private wplace experience for themselves, their friends, or even their community.
 				</p>
 
 				<p v-if="isOpenplaceLive">
@@ -48,7 +48,7 @@
 				<h3>Rules</h3>
 
 				<p>
-					To keep openplace fair and safe for everyone, you are expected to follow these rules. Violations may result in a temporary or permanent ban.
+					To keep closeplace fair and safe for everyone, you are expected to follow these rules. Violations may result in a temporary or permanent ban.
 				</p>
 
 				<Rules :is-visible="isOpen" />

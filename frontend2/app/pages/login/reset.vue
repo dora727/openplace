@@ -8,7 +8,7 @@
 
 		<InputText
 			v-model="username"
-			placeholder="openplace username"
+			placeholder="closeplace username"
 			aria-label="Username"
 			autocomplete="username"
 			required

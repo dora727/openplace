@@ -49,7 +49,7 @@
 		</div>
 
 		<div class="reset-link">
-			New to openplace?
+			New to closeplace?
 			<RouterLink :to="rulesURL">
 				Register
 			</RouterLink>
